@@ -1,6 +1,6 @@
 # How to Create a Web Component in Svelte + Vite
  
-##To build to custom element we must:
+## To build to custom element we must:
 
 Add customElement: true, to the rollup.config.js file:
 ```
