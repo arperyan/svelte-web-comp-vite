@@ -3,8 +3,8 @@
 To build to custom element we must:
 
 add customElement: true, to the rollup.config.js file:
-    plugins: [
+   ``` plugins: [
         svelte({
-            customElement: true,
+            customElement: true,```
 add in App.svelte
-<svelte:options tag="svelte-clock">
+```<svelte:options tag="svelte-clock">```
