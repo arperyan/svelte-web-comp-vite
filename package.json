@@ -1,0 +1,19 @@
+{
+  "name": "count-btn",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/count-btn.js",
+  "module": "./dist/count-btn.es.js",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
+    "svelte": "^3.37.0",
+    "vite": "^2.3.7"
+  }
+}
