@@ -60,3 +60,5 @@ Add in Counter.svelte - if you don't do this then the css doesn't work
 ```
 <svelte:options tag="count-btn" />
 ```
+
+Tested in Angular 🥇
